@@ -1,0 +1,16 @@
+D:\.net\Fibanocci_Series\Fibanocci_Series\bin\Debug\net5.0\Fibanocci_Series.exe
+D:\.net\Fibanocci_Series\Fibanocci_Series\bin\Debug\net5.0\Fibanocci_Series.deps.json
+D:\.net\Fibanocci_Series\Fibanocci_Series\bin\Debug\net5.0\Fibanocci_Series.runtimeconfig.json
+D:\.net\Fibanocci_Series\Fibanocci_Series\bin\Debug\net5.0\Fibanocci_Series.runtimeconfig.dev.json
+D:\.net\Fibanocci_Series\Fibanocci_Series\bin\Debug\net5.0\Fibanocci_Series.dll
+D:\.net\Fibanocci_Series\Fibanocci_Series\bin\Debug\net5.0\Fibanocci_Series.pdb
+D:\.net\Fibanocci_Series\Fibanocci_Series\obj\Debug\net5.0\Fibanocci_Series.csproj.AssemblyReference.cache
+D:\.net\Fibanocci_Series\Fibanocci_Series\obj\Debug\net5.0\Fibanocci_Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Fibanocci_Series\Fibanocci_Series\obj\Debug\net5.0\Fibanocci_Series.AssemblyInfoInputs.cache
+D:\.net\Fibanocci_Series\Fibanocci_Series\obj\Debug\net5.0\Fibanocci_Series.AssemblyInfo.cs
+D:\.net\Fibanocci_Series\Fibanocci_Series\obj\Debug\net5.0\Fibanocci_Series.csproj.CoreCompileInputs.cache
+D:\.net\Fibanocci_Series\Fibanocci_Series\obj\Debug\net5.0\Fibanocci_Series.dll
+D:\.net\Fibanocci_Series\Fibanocci_Series\obj\Debug\net5.0\refint\Fibanocci_Series.dll
+D:\.net\Fibanocci_Series\Fibanocci_Series\obj\Debug\net5.0\Fibanocci_Series.pdb
+D:\.net\Fibanocci_Series\Fibanocci_Series\obj\Debug\net5.0\Fibanocci_Series.genruntimeconfig.cache
+D:\.net\Fibanocci_Series\Fibanocci_Series\obj\Debug\net5.0\ref\Fibanocci_Series.dll

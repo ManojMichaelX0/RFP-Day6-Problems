@@ -1,0 +1,16 @@
+D:\.net\CoupenNumber\CoupenNumber\bin\Debug\net5.0\CoupenNumber.exe
+D:\.net\CoupenNumber\CoupenNumber\bin\Debug\net5.0\CoupenNumber.deps.json
+D:\.net\CoupenNumber\CoupenNumber\bin\Debug\net5.0\CoupenNumber.runtimeconfig.json
+D:\.net\CoupenNumber\CoupenNumber\bin\Debug\net5.0\CoupenNumber.runtimeconfig.dev.json
+D:\.net\CoupenNumber\CoupenNumber\bin\Debug\net5.0\CoupenNumber.dll
+D:\.net\CoupenNumber\CoupenNumber\bin\Debug\net5.0\CoupenNumber.pdb
+D:\.net\CoupenNumber\CoupenNumber\obj\Debug\net5.0\CoupenNumber.csproj.AssemblyReference.cache
+D:\.net\CoupenNumber\CoupenNumber\obj\Debug\net5.0\CoupenNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\CoupenNumber\CoupenNumber\obj\Debug\net5.0\CoupenNumber.AssemblyInfoInputs.cache
+D:\.net\CoupenNumber\CoupenNumber\obj\Debug\net5.0\CoupenNumber.AssemblyInfo.cs
+D:\.net\CoupenNumber\CoupenNumber\obj\Debug\net5.0\CoupenNumber.csproj.CoreCompileInputs.cache
+D:\.net\CoupenNumber\CoupenNumber\obj\Debug\net5.0\CoupenNumber.dll
+D:\.net\CoupenNumber\CoupenNumber\obj\Debug\net5.0\refint\CoupenNumber.dll
+D:\.net\CoupenNumber\CoupenNumber\obj\Debug\net5.0\CoupenNumber.pdb
+D:\.net\CoupenNumber\CoupenNumber\obj\Debug\net5.0\CoupenNumber.genruntimeconfig.cache
+D:\.net\CoupenNumber\CoupenNumber\obj\Debug\net5.0\ref\CoupenNumber.dll

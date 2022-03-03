@@ -1,0 +1,16 @@
+D:\.net\Binary\Binary\bin\Debug\net5.0\Binary.exe
+D:\.net\Binary\Binary\bin\Debug\net5.0\Binary.deps.json
+D:\.net\Binary\Binary\bin\Debug\net5.0\Binary.runtimeconfig.json
+D:\.net\Binary\Binary\bin\Debug\net5.0\Binary.runtimeconfig.dev.json
+D:\.net\Binary\Binary\bin\Debug\net5.0\Binary.dll
+D:\.net\Binary\Binary\bin\Debug\net5.0\Binary.pdb
+D:\.net\Binary\Binary\obj\Debug\net5.0\Binary.csproj.AssemblyReference.cache
+D:\.net\Binary\Binary\obj\Debug\net5.0\Binary.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Binary\Binary\obj\Debug\net5.0\Binary.AssemblyInfoInputs.cache
+D:\.net\Binary\Binary\obj\Debug\net5.0\Binary.AssemblyInfo.cs
+D:\.net\Binary\Binary\obj\Debug\net5.0\Binary.csproj.CoreCompileInputs.cache
+D:\.net\Binary\Binary\obj\Debug\net5.0\Binary.dll
+D:\.net\Binary\Binary\obj\Debug\net5.0\refint\Binary.dll
+D:\.net\Binary\Binary\obj\Debug\net5.0\Binary.pdb
+D:\.net\Binary\Binary\obj\Debug\net5.0\Binary.genruntimeconfig.cache
+D:\.net\Binary\Binary\obj\Debug\net5.0\ref\Binary.dll

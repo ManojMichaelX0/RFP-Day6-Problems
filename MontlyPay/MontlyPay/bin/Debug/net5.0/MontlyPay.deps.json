@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MontlyPay/1.0.0": {
+        "runtime": {
+          "MontlyPay.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MontlyPay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

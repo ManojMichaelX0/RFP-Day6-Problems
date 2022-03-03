@@ -1,0 +1,16 @@
+D:\.net\Squrt_Newton\Squrt_Newton\bin\Debug\net5.0\Squrt_Newton.exe
+D:\.net\Squrt_Newton\Squrt_Newton\bin\Debug\net5.0\Squrt_Newton.deps.json
+D:\.net\Squrt_Newton\Squrt_Newton\bin\Debug\net5.0\Squrt_Newton.runtimeconfig.json
+D:\.net\Squrt_Newton\Squrt_Newton\bin\Debug\net5.0\Squrt_Newton.runtimeconfig.dev.json
+D:\.net\Squrt_Newton\Squrt_Newton\bin\Debug\net5.0\Squrt_Newton.dll
+D:\.net\Squrt_Newton\Squrt_Newton\bin\Debug\net5.0\Squrt_Newton.pdb
+D:\.net\Squrt_Newton\Squrt_Newton\obj\Debug\net5.0\Squrt_Newton.csproj.AssemblyReference.cache
+D:\.net\Squrt_Newton\Squrt_Newton\obj\Debug\net5.0\Squrt_Newton.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Squrt_Newton\Squrt_Newton\obj\Debug\net5.0\Squrt_Newton.AssemblyInfoInputs.cache
+D:\.net\Squrt_Newton\Squrt_Newton\obj\Debug\net5.0\Squrt_Newton.AssemblyInfo.cs
+D:\.net\Squrt_Newton\Squrt_Newton\obj\Debug\net5.0\Squrt_Newton.csproj.CoreCompileInputs.cache
+D:\.net\Squrt_Newton\Squrt_Newton\obj\Debug\net5.0\Squrt_Newton.dll
+D:\.net\Squrt_Newton\Squrt_Newton\obj\Debug\net5.0\refint\Squrt_Newton.dll
+D:\.net\Squrt_Newton\Squrt_Newton\obj\Debug\net5.0\Squrt_Newton.pdb
+D:\.net\Squrt_Newton\Squrt_Newton\obj\Debug\net5.0\Squrt_Newton.genruntimeconfig.cache
+D:\.net\Squrt_Newton\Squrt_Newton\obj\Debug\net5.0\ref\Squrt_Newton.dll

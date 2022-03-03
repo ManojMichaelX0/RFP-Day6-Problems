@@ -1,0 +1,16 @@
+D:\.net\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.exe
+D:\.net\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.deps.json
+D:\.net\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.runtimeconfig.json
+D:\.net\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.runtimeconfig.dev.json
+D:\.net\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.dll
+D:\.net\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.pdb
+D:\.net\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.csproj.AssemblyReference.cache
+D:\.net\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.AssemblyInfoInputs.cache
+D:\.net\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.AssemblyInfo.cs
+D:\.net\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.csproj.CoreCompileInputs.cache
+D:\.net\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.dll
+D:\.net\DayOfWeek\DayOfWeek\obj\Debug\net5.0\refint\DayOfWeek.dll
+D:\.net\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.pdb
+D:\.net\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.genruntimeconfig.cache
+D:\.net\DayOfWeek\DayOfWeek\obj\Debug\net5.0\ref\DayOfWeek.dll

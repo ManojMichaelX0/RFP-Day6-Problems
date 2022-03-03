@@ -1,0 +1,16 @@
+D:\.net\Binaryswap\Binaryswap\bin\Debug\net5.0\Binaryswap.exe
+D:\.net\Binaryswap\Binaryswap\bin\Debug\net5.0\Binaryswap.deps.json
+D:\.net\Binaryswap\Binaryswap\bin\Debug\net5.0\Binaryswap.runtimeconfig.json
+D:\.net\Binaryswap\Binaryswap\bin\Debug\net5.0\Binaryswap.runtimeconfig.dev.json
+D:\.net\Binaryswap\Binaryswap\bin\Debug\net5.0\Binaryswap.dll
+D:\.net\Binaryswap\Binaryswap\bin\Debug\net5.0\Binaryswap.pdb
+D:\.net\Binaryswap\Binaryswap\obj\Debug\net5.0\Binaryswap.csproj.AssemblyReference.cache
+D:\.net\Binaryswap\Binaryswap\obj\Debug\net5.0\Binaryswap.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Binaryswap\Binaryswap\obj\Debug\net5.0\Binaryswap.AssemblyInfoInputs.cache
+D:\.net\Binaryswap\Binaryswap\obj\Debug\net5.0\Binaryswap.AssemblyInfo.cs
+D:\.net\Binaryswap\Binaryswap\obj\Debug\net5.0\Binaryswap.csproj.CoreCompileInputs.cache
+D:\.net\Binaryswap\Binaryswap\obj\Debug\net5.0\Binaryswap.dll
+D:\.net\Binaryswap\Binaryswap\obj\Debug\net5.0\refint\Binaryswap.dll
+D:\.net\Binaryswap\Binaryswap\obj\Debug\net5.0\Binaryswap.pdb
+D:\.net\Binaryswap\Binaryswap\obj\Debug\net5.0\Binaryswap.genruntimeconfig.cache
+D:\.net\Binaryswap\Binaryswap\obj\Debug\net5.0\ref\Binaryswap.dll

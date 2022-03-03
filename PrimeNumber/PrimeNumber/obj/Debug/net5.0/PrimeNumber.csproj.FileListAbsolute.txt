@@ -1,0 +1,16 @@
+D:\.net\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.exe
+D:\.net\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.deps.json
+D:\.net\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.runtimeconfig.json
+D:\.net\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.runtimeconfig.dev.json
+D:\.net\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.dll
+D:\.net\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.pdb
+D:\.net\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.csproj.AssemblyReference.cache
+D:\.net\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.AssemblyInfoInputs.cache
+D:\.net\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.AssemblyInfo.cs
+D:\.net\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\.net\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.dll
+D:\.net\PrimeNumber\PrimeNumber\obj\Debug\net5.0\refint\PrimeNumber.dll
+D:\.net\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.pdb
+D:\.net\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.genruntimeconfig.cache
+D:\.net\PrimeNumber\PrimeNumber\obj\Debug\net5.0\ref\PrimeNumber.dll

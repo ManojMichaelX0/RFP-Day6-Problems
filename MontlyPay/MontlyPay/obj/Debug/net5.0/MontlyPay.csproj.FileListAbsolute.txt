@@ -1,0 +1,16 @@
+D:\.net\MontlyPay\MontlyPay\bin\Debug\net5.0\MontlyPay.exe
+D:\.net\MontlyPay\MontlyPay\bin\Debug\net5.0\MontlyPay.deps.json
+D:\.net\MontlyPay\MontlyPay\bin\Debug\net5.0\MontlyPay.runtimeconfig.json
+D:\.net\MontlyPay\MontlyPay\bin\Debug\net5.0\MontlyPay.runtimeconfig.dev.json
+D:\.net\MontlyPay\MontlyPay\bin\Debug\net5.0\MontlyPay.dll
+D:\.net\MontlyPay\MontlyPay\bin\Debug\net5.0\MontlyPay.pdb
+D:\.net\MontlyPay\MontlyPay\obj\Debug\net5.0\MontlyPay.csproj.AssemblyReference.cache
+D:\.net\MontlyPay\MontlyPay\obj\Debug\net5.0\MontlyPay.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\MontlyPay\MontlyPay\obj\Debug\net5.0\MontlyPay.AssemblyInfoInputs.cache
+D:\.net\MontlyPay\MontlyPay\obj\Debug\net5.0\MontlyPay.AssemblyInfo.cs
+D:\.net\MontlyPay\MontlyPay\obj\Debug\net5.0\MontlyPay.csproj.CoreCompileInputs.cache
+D:\.net\MontlyPay\MontlyPay\obj\Debug\net5.0\MontlyPay.dll
+D:\.net\MontlyPay\MontlyPay\obj\Debug\net5.0\refint\MontlyPay.dll
+D:\.net\MontlyPay\MontlyPay\obj\Debug\net5.0\MontlyPay.pdb
+D:\.net\MontlyPay\MontlyPay\obj\Debug\net5.0\MontlyPay.genruntimeconfig.cache
+D:\.net\MontlyPay\MontlyPay\obj\Debug\net5.0\ref\MontlyPay.dll

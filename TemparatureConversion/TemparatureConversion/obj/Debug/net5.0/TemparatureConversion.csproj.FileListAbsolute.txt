@@ -1,0 +1,16 @@
+D:\.net\TemparatureConversion\TemparatureConversion\bin\Debug\net5.0\TemparatureConversion.exe
+D:\.net\TemparatureConversion\TemparatureConversion\bin\Debug\net5.0\TemparatureConversion.deps.json
+D:\.net\TemparatureConversion\TemparatureConversion\bin\Debug\net5.0\TemparatureConversion.runtimeconfig.json
+D:\.net\TemparatureConversion\TemparatureConversion\bin\Debug\net5.0\TemparatureConversion.runtimeconfig.dev.json
+D:\.net\TemparatureConversion\TemparatureConversion\bin\Debug\net5.0\TemparatureConversion.dll
+D:\.net\TemparatureConversion\TemparatureConversion\bin\Debug\net5.0\TemparatureConversion.pdb
+D:\.net\TemparatureConversion\TemparatureConversion\obj\Debug\net5.0\TemparatureConversion.csproj.AssemblyReference.cache
+D:\.net\TemparatureConversion\TemparatureConversion\obj\Debug\net5.0\TemparatureConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\TemparatureConversion\TemparatureConversion\obj\Debug\net5.0\TemparatureConversion.AssemblyInfoInputs.cache
+D:\.net\TemparatureConversion\TemparatureConversion\obj\Debug\net5.0\TemparatureConversion.AssemblyInfo.cs
+D:\.net\TemparatureConversion\TemparatureConversion\obj\Debug\net5.0\TemparatureConversion.csproj.CoreCompileInputs.cache
+D:\.net\TemparatureConversion\TemparatureConversion\obj\Debug\net5.0\TemparatureConversion.dll
+D:\.net\TemparatureConversion\TemparatureConversion\obj\Debug\net5.0\refint\TemparatureConversion.dll
+D:\.net\TemparatureConversion\TemparatureConversion\obj\Debug\net5.0\TemparatureConversion.pdb
+D:\.net\TemparatureConversion\TemparatureConversion\obj\Debug\net5.0\TemparatureConversion.genruntimeconfig.cache
+D:\.net\TemparatureConversion\TemparatureConversion\obj\Debug\net5.0\ref\TemparatureConversion.dll

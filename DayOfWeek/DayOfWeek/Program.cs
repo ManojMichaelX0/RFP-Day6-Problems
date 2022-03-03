@@ -56,7 +56,7 @@ namespace DayOfWeek
             d0 = (day + x + 31 * m0 / 12) % 7;
             switch (d0)
             {
-                case (0):
+                case 0:
                     Console.WriteLine("Sunday");
                     break;
                 case 1:

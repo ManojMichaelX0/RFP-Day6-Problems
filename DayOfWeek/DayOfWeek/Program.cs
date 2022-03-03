@@ -52,7 +52,6 @@ namespace DayOfWeek
                     Console.WriteLine("Given Month Value Is Not Valid");
                     break;
             }
-            Console.WriteLine("Month = " + m0);
             d0 = (day + x + 31 * m0 / 12) % 7;
             switch (d0)
             {
@@ -156,8 +155,6 @@ namespace DayOfWeek
                     Console.WriteLine("Given Day Is Not Valid");
                     break;
             }
-            Console.WriteLine("Day = " + d0);
-            
         }
     }
     internal class Program

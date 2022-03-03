@@ -77,6 +77,81 @@ namespace DayOfWeek
                 case 6:
                     Console.WriteLine("Saturday");
                     break;
+                    case 7:
+                    Console.WriteLine("Sunday");
+                    break;
+                case 8:
+                    Console.WriteLine("Monday");
+                    break;
+                case 9:
+                    Console.WriteLine("Tuesday");
+                    break;
+                case 10:
+                    Console.WriteLine("Wednesday");
+                    break;
+                case 11:
+                    Console.WriteLine("Thursday");
+                    break;
+                case 12:
+                    Console.WriteLine("Friday");
+                    break;
+                case 13:
+                    Console.WriteLine("Saturday");
+                    break;
+                case 14:
+                    Console.WriteLine("Sunday");
+                    break;
+                case 15:
+                    Console.WriteLine("Monday");
+                    break;
+                case 16:
+                    Console.WriteLine("Tuesday");
+                    break;
+                case 17:
+                    Console.WriteLine("Wednesday");
+                    break;
+                case 18:
+                    Console.WriteLine("Thursday");
+                    break;
+                case 19:
+                    Console.WriteLine("Friday");
+                    break;
+                case 20:
+                    Console.WriteLine("Saturday");
+                    break;
+                case 21:
+                    Console.WriteLine("Sunday");
+                    break;
+                case 22:
+                    Console.WriteLine("Monday");
+                    break;
+                case 23:
+                    Console.WriteLine("Tuesday");
+                    break;
+                case 24:
+                    Console.WriteLine("Wednesday");
+                    break;
+                case 25:
+                    Console.WriteLine("Thursday");
+                    break;
+                case 26:
+                    Console.WriteLine("Friday");
+                    break;
+                case 27:
+                    Console.WriteLine("Saturday");
+                    break;
+                case 28:
+                    Console.WriteLine("Sunday");
+                    break;
+                case 29:
+                    Console.WriteLine("Monday");
+                    break;
+                case 30:
+                    Console.WriteLine("Tuesday");
+                    break;
+                case 31:
+                    Console.WriteLine("Wednesday");
+                    break;
                 default :
                     Console.WriteLine("Given Day Is Not Valid");
                     break;
